@@ -1,5 +1,5 @@
 Final Look:
-![image](https://user-images.githubusercontent.com/15225177/203300734-a4eab212-6906-4704-9abd-12e782d106e1.png)
+![image](https://user-images.githubusercontent.com/15225177/203300845-3d6feddd-876f-4cf6-8901-e5f7dabbf9ed.png)
 
 **********************************************************************************************
 # Getting Started with Create React App
